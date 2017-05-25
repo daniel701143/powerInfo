@@ -98,3 +98,4 @@ loadPower <- function(building, dateFrom, dateTo)
   
   return(power)
 }
+loadPowerful <- function(building, dateFrom, dateTo)
